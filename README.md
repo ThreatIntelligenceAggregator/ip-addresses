@@ -9,3 +9,6 @@ https://api.threatintelligenceaggregator.org/domain/{yourdomain}
 
 Example:
 https://api.threatintelligenceaggregator.org/domain/discord.gg
+
+Domain API Python Client:
+https://github.com/ThreatIntelligenceAggregator/domains_api_client
